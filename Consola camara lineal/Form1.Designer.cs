@@ -48,7 +48,7 @@
             this.camera_values.ChartAreas.Add(chartArea1);
             legend1.Name = "Legend1";
             this.camera_values.Legends.Add(legend1);
-            this.camera_values.Location = new System.Drawing.Point(35, 283);
+            this.camera_values.Location = new System.Drawing.Point(37, 45);
             this.camera_values.Name = "camera_values";
             series1.ChartArea = "ChartArea1";
             series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
